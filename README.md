@@ -7,3 +7,5 @@ predict and detect epileptic seizures. Our object of study was an EEG from two
 different patients presenting 29 features. Knowing that a seizure is composed by 3 parts,
 we developed two different neural networks, one for detecting and one for predicting
 testing different architectures and varying different parameters.
+
+I am aware that the network initiator might not be the most used currently, and that this project can be done with far greater success using TensorFlow
